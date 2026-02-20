@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure Three-Tier Flask App
 
 A secure, containerized three-tier application using **Flask**, **Redis**, and **Nginx** with Docker and Docker Compose.
@@ -67,3 +68,7 @@ Author
 Jatin
 Email: jatinjawa18@gmail.com
 GitHub: https://github.com/Jatin21012004
+=======
+# secure-three-tier-app
+Secure three-tier web application using Docker, Flask, Nginx, and Redis with multi-stage builds, container hardening, health checks, and vulnerability scanning via Trivy.
+>>>>>>> cd72627cfbad74cd287850e2dcbd8f8ebee1973b
