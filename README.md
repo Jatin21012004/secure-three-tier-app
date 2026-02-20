@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Secure Three-Tier Flask App
 
 A secure, containerized three-tier application using **Flask**, **Redis**, and **Nginx** with Docker and Docker Compose.
